@@ -110,3 +110,47 @@ header span{
     color: #767676;   
     margin-bottom:30px;
 }
+.container3{
+    padding: 170px 0px;
+    background-color: #F9F9F9;
+}
+.container3 h1{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+.container3 p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.container3 span{
+    color:#69B99D;
+}
+.div5{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+.div6{
+    width: 25%;
+    border: white;
+    box-shadow:1px 1px 10px lightgray;
+    text-align: center;
+    padding: 58px 0px;
+
+}
+.div6 img{
+    margin-bottom: 25px;
+}
+.div6 h2{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.div6 h5{
+    font-weight: 400;
+    font-size: 16px;
+    color: #767676;
+}
