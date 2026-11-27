@@ -154,3 +154,49 @@ header span{
     font-size: 16px;
     color: #767676;
 }
+.container4{
+    padding: 150px 0px;
+}
+.container4 h1{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 65px;
+}
+.div8{
+    border: white;
+    box-shadow:1px 1px 10px lightgray;
+    width: 33%;
+    padding: 52px;
+    
+}
+.div8 h2{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.div8 span{
+    font-size: 48px;
+    font-weight: 400;
+    color: #69B99D;
+    line-height: 26px;
+}
+.div9{
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+.div9 h3{
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+}
+.div7{
+    margin-bottom: 58px;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+.img5{
+    margin-left: 48%;
+}
