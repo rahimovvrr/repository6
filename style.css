@@ -244,3 +244,33 @@ header span{
     justify-content: center;
     align-items: center;
 }
+footer{
+    background-color: #69B99D;
+    display: flex;
+    gap: 730px;
+    justify-content: center;
+    align-items: center;
+    padding: 61px 0px;
+}
+footer h1{
+    font-size: 26px;
+    font-weight:900;
+    margin-bottom: 25px;
+}
+footer span{
+    color: white;
+}
+.div13 p{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 12px;
+}
+.div14{
+    display: flex;
+    gap: 32px;
+}
+.div14 img{
+    width: 24px;
+    height: 24px;
+}
