@@ -200,3 +200,47 @@ header span{
 .img5{
     margin-left: 48%;
 }
+.div10 h1{
+    font-size: 36px;
+    font-weight: 700px;
+    color: #0F241D;
+    margin-bottom: 12px;
+}
+.div10 p{
+    font-size: 18px;
+    margin-bottom: 25px;
+    font-weight: 400;
+    color: #767676;
+}
+.div10 button{
+    padding: 15px 32px;
+    background-color: #69B99D;
+    border: #69B99D;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.div10 span{
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+}
+.div12{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 32px;
+}
+.div12 span{
+    font-size: 18px;
+    font-weight: 400;
+    color: #767676;
+}
+.container5{
+    margin: 120px 0px;
+    display: flex;
+    gap: 548px;
+    justify-content: center;
+    align-items: center;
+}
